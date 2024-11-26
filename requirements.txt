@@ -1,3 +1,10 @@
 openai
 gradio
 python-dotenv
+langchain
+langchain_chroma
+langchain-openai
+langchain[docarray]
+plotly
+langchain-community
+scikit-learn
