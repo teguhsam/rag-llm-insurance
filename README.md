@@ -3,6 +3,11 @@
 A **Retrieval-Augmented Generation (RAG)**-based question-answering system designed for employees at Insurellm, an insurance technology company. This application ensures high accuracy and cost-effectiveness by utilizing a knowledge base of documents and a GPT-powered language model.
 
 ---
+## Demo
+
+https://github.com/user-attachments/assets/02f572cd-828d-4261-9cac-f505035b8500
+
+
 
 ## Features
 
